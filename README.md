@@ -1,3 +1,7 @@
+# App Preview
+![image](https://github.com/stayadi07/totalitycorp-frontend-challenge/assets/98824627/eda6cabe-6d90-45a2-89e9-76e5d701b4a0)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
