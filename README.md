@@ -1,5 +1,6 @@
 # App Preview
-![image](https://github.com/stayadi07/totalitycorp-frontend-challenge/assets/98824627/eda6cabe-6d90-45a2-89e9-76e5d701b4a0)
+![image](https://github.com/stayadi07/totalitycorp-frontend-challenge/assets/98824627/a09ac8d2-7f4b-44b5-998f-144a6978a61c)
+
 
 
 # Getting Started with Create React App
