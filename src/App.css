@@ -1,0 +1,83 @@
+body {
+  overflow-x: hidden;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.card-img-top {
+  width: 300px;
+  height: 400px;
+  object-fit: contain;
+}
+
+.form-check-label {
+  font-weight: 600;
+  font-size: large;
+}
+
+.dropdown-menu {
+  width: 25vh;
+  padding-left: 1vh;
+}
+
+.col-md-3 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.carousel-indicators {
+  visibility: hidden;
+}
+
+svg {
+  margin-bottom: 3px;
+  margin-right: 6px;
+}
+
+.cart-display {
+  text-align: center;
+  margin-top: 5vh;
+}
+
+.form-control-address {
+  width: 50%;
+  margin-left: 1vh;
+}
+
+.form-input {
+  margin-top: 2vh;
+  margin-left: 5vh;
+}
+
+.check-container {
+  width: 25%;
+
+  margin-top: 2vh;
+}
+
+.text-container-order {
+  text-align: center;
+}
+.checkOrder-container {
+  text-align: center;
+}
+
+.form-control {
+  width: 50%;
+}
+
+.add-new-product {
+  margin-top: 2vh;
+  margin-left: 2vh;
+}
+
+.form-container-products {
+  margin-top: 2vh;
+  margin-left: 2vh;
+}
+
+.btn-submit {
+  margin-top: 2vh;
+}

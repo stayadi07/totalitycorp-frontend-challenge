@@ -1,0 +1,86 @@
+.login-card {
+  width: 100%;
+  opacity: 1;
+  padding-bottom: 12px;
+}
+
+.text-center {
+  background: linear-gradient(31deg, #43b6d6, transparent);
+  box-shadow: 0px 3px 7px #98969629;
+  border: none;
+}
+
+.login-text {
+  color: #0090a5;
+}
+
+.total-price,
+.brand-name {
+  color: #fff;
+}
+
+.total-price {
+  padding: 12px;
+}
+
+.avatar-container {
+  width: 32px;
+}
+
+.cart-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.logout-popup {
+  position: relative;
+  left: 75%;
+  border: 1px solid #8080804a;
+  padding: 12px;
+  margin: 12px;
+  width: fit-content;
+  border-radius: 6px;
+}
+
+.sad-face-container {
+  width: 32px;
+}
+
+.filter-sort-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logout-icon {
+  margin-top: 4px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+.carousel-inner {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.banner-image {
+  width: 100%;
+}
+
+/* Media query for mobile devices */
+@media screen and (max-width: 767px) {
+  .logout-popup {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .logout-popup {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50%;
+  }
+}
