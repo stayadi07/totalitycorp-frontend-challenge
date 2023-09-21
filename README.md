@@ -1,3 +1,8 @@
+# App Preview - https://main--glowing-entremet-f509d9.netlify.app/
+![image](https://github.com/stayadi07/totalitycorp-frontend-challenge/assets/98824627/a09ac8d2-7f4b-44b5-998f-144a6978a61c)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
