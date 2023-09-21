@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 import Avatar from "../Assets/Avatar.png";
 import "./comp.css";
 import Logout from "./Logout";
+import Header from "./Header";
 
 const Navbar = ({ onAdd, cartItems }) => {
   const [logoutPopupOpen, setLogoutPopupOpen] = useState(false);
@@ -26,9 +27,7 @@ const Navbar = ({ onAdd, cartItems }) => {
     <>
       <div className="navbar-container">
         <nav className="navbar navbar-dark bg-dark">
-          <a className="navbar-brand" href="/product">
-            ShopHere
-          </a>
+          <Header />
 
           <div className="cart-container">
             <div onClick={handleCart}>
